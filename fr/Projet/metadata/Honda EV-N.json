@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 20D",
-    "date_taken": "2009:11:01 13:45:29"
+    "date_taken": "2009:11:01 13:45:29",
+    "colors": [
+        [
+            234,
+            235,
+            231
+        ],
+        [
+            20,
+            23,
+            20
+        ],
+        [
+            69,
+            73,
+            75
+        ],
+        [
+            118,
+            115,
+            117
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 700D",
-    "date_taken": "2015:11:21 08:52:20"
+    "date_taken": "2015:11:21 08:52:20",
+    "colors": [
+        [
+            36,
+            36,
+            29
+        ],
+        [
+            137,
+            134,
+            117
+        ],
+        [
+            87,
+            85,
+            72
+        ],
+        [
+            190,
+            196,
+            203
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "SLT-A65V",
-    "date_taken": "2016:12:17 11:34:33"
+    "date_taken": "2016:12:17 11:34:33",
+    "colors": [
+        [
+            209,
+            66,
+            21
+        ],
+        [
+            43,
+            38,
+            27
+        ],
+        [
+            208,
+            195,
+            167
+        ],
+        [
+            135,
+            123,
+            95
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

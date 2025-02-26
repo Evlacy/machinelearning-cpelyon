@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "FinePix6800 ZOOM",
-    "date_taken": "2002:03:02 15:11:57"
+    "date_taken": "2002:03:02 15:11:57",
+    "colors": [
+        [
+            24,
+            28,
+            18
+        ],
+        [
+            242,
+            197,
+            77
+        ],
+        [
+            122,
+            103,
+            66
+        ],
+        [
+            199,
+            190,
+            162
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

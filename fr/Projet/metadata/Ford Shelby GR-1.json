@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "KODAK DC280 ZOOM DIGITAL CAMERA",
-    "date_taken": "2005:02:14 14:43:24"
+    "date_taken": "2005:02:14 14:43:24",
+    "colors": [
+        [
+            95,
+            87,
+            69
+        ],
+        [
+            28,
+            51,
+            123
+        ],
+        [
+            178,
+            193,
+            196
+        ],
+        [
+            17,
+            20,
+            26
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

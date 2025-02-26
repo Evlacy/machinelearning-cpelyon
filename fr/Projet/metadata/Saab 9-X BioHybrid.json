@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "X600,D630,FE5500",
-    "date_taken": "2008:03:14 10:47:53"
+    "date_taken": "2008:03:14 10:47:53",
+    "colors": [
+        [
+            194,
+            207,
+            220
+        ],
+        [
+            79,
+            79,
+            95
+        ],
+        [
+            26,
+            23,
+            30
+        ],
+        [
+            140,
+            145,
+            161
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

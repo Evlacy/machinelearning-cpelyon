@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "NIKON D90",
-    "date_taken": "2015:05:05 13:40:19"
+    "date_taken": "2015:05:05 13:40:19",
+    "colors": [
+        [
+            207,
+            198,
+            170
+        ],
+        [
+            164,
+            66,
+            43
+        ],
+        [
+            61,
+            46,
+            35
+        ],
+        [
+            121,
+            114,
+            102
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

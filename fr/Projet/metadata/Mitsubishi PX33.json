@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon DIGITAL IXUS i zoom",
-    "date_taken": "2006:10:01 11:08:15"
+    "date_taken": "2006:10:01 11:08:15",
+    "colors": [
+        [
+            121,
+            88,
+            88
+        ],
+        [
+            240,
+            241,
+            240
+        ],
+        [
+            48,
+            43,
+            44
+        ],
+        [
+            175,
+            167,
+            155
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

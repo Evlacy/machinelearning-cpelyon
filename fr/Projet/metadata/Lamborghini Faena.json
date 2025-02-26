@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Compactline 130",
-    "date_taken": "2010:09:12 09:27:09"
+    "date_taken": "2010:09:12 09:27:09",
+    "colors": [
+        [
+            208,
+            209,
+            211
+        ],
+        [
+            108,
+            124,
+            37
+        ],
+        [
+            138,
+            141,
+            131
+        ],
+        [
+            48,
+            56,
+            42
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

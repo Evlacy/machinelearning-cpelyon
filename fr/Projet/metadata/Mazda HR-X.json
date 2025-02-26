@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "PENTAX *ist DL2    ",
-    "date_taken": "2007:07:26 16:09:21"
+    "date_taken": "2007:07:26 16:09:21",
+    "colors": [
+        [
+            184,
+            198,
+            177
+        ],
+        [
+            41,
+            60,
+            33
+        ],
+        [
+            114,
+            119,
+            82
+        ],
+        [
+            44,
+            164,
+            163
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

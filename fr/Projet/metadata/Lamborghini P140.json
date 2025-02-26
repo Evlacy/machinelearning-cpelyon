@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon DIGITAL IXUS 95 IS",
-    "date_taken": "2013:08:21 05:12:45"
+    "date_taken": "2013:08:21 05:12:45",
+    "colors": [
+        [
+            177,
+            182,
+            187
+        ],
+        [
+            37,
+            29,
+            24
+        ],
+        [
+            90,
+            70,
+            55
+        ],
+        [
+            129,
+            130,
+            128
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

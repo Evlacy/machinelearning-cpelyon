@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "HP PhotoSmart 215",
-    "date_taken": "2000:01:01 02:18:41"
+    "date_taken": "2000:01:01 02:18:41",
+    "colors": [
+        [
+            125,
+            103,
+            88
+        ],
+        [
+            32,
+            29,
+            28
+        ],
+        [
+            240,
+            224,
+            219
+        ],
+        [
+            188,
+            160,
+            144
+        ]
+    ],
+    "tags": [
+        "isNightPicture"
+    ]
 }

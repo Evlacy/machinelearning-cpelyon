@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "NIKON D7100",
-    "date_taken": "2015:09:19 10:10:02"
+    "date_taken": "2015:09:19 10:10:02",
+    "colors": [
+        [
+            120,
+            92,
+            144
+        ],
+        [
+            5,
+            8,
+            41
+        ],
+        [
+            226,
+            207,
+            240
+        ],
+        [
+            58,
+            40,
+            86
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

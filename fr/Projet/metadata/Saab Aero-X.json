@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Digimax 202",
-    "date_taken": "2006:02:03 21:46:28"
+    "date_taken": "2006:02:03 21:46:28",
+    "colors": [
+        [
+            229,
+            231,
+            219
+        ],
+        [
+            96,
+            100,
+            96
+        ],
+        [
+            157,
+            165,
+            162
+        ],
+        [
+            37,
+            34,
+            29
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

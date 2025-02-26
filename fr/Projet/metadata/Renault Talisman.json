@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Portrait",
     "camera_model": "iPhone 6",
-    "date_taken": "2014:10:04 13:09:16"
+    "date_taken": "2014:10:04 13:09:16",
+    "colors": [
+        [
+            108,
+            100,
+            102
+        ],
+        [
+            193,
+            188,
+            181
+        ],
+        [
+            34,
+            28,
+            25
+        ],
+        [
+            215,
+            137,
+            85
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

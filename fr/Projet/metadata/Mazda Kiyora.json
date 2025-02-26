@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "DSC-T9",
-    "date_taken": "2008:10:05 13:50:22"
+    "date_taken": "2008:10:05 13:50:22",
+    "colors": [
+        [
+            34,
+            32,
+            38
+        ],
+        [
+            123,
+            152,
+            177
+        ],
+        [
+            58,
+            97,
+            129
+        ],
+        [
+            168,
+            201,
+            228
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

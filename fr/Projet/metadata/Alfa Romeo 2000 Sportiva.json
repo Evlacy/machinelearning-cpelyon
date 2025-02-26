@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS-1D Mark III",
-    "date_taken": "2010:07:01 08:43:15"
+    "date_taken": "2010:07:01 08:43:15",
+    "colors": [
+        [
+            146,
+            145,
+            136
+        ],
+        [
+            100,
+            99,
+            75
+        ],
+        [
+            33,
+            38,
+            23
+        ],
+        [
+            197,
+            212,
+            225
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

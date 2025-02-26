@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "DMC-GH2",
-    "date_taken": "2013:10:07 14:47:29"
+    "date_taken": "2013:10:07 14:47:29",
+    "colors": [
+        [
+            74,
+            73,
+            58
+        ],
+        [
+            22,
+            22,
+            17
+        ],
+        [
+            212,
+            219,
+            220
+        ],
+        [
+            136,
+            139,
+            134
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

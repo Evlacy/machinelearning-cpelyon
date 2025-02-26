@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 70D",
-    "date_taken": "2018:03:25 14:42:49"
+    "date_taken": "2018:03:25 14:42:49",
+    "colors": [
+        [
+            172,
+            165,
+            172
+        ],
+        [
+            39,
+            48,
+            48
+        ],
+        [
+            3,
+            153,
+            178
+        ],
+        [
+            116,
+            107,
+            108
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

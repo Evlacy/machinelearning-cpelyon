@@ -6,6 +6,31 @@
     ],
     "mode": "RGB",
     "orientation": "Landscape",
-    "camera_model": "Unknown",
-    "date_taken": "Unknown"
+    "camera_model": null,
+    "date_taken": null,
+    "colors": [
+        [
+            128,
+            154,
+            158
+        ],
+        [
+            29,
+            33,
+            27
+        ],
+        [
+            223,
+            226,
+            227
+        ],
+        [
+            88,
+            101,
+            76
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

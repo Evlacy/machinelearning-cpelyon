@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 40D",
-    "date_taken": "2010:07:04 09:10:30"
+    "date_taken": "2010:07:04 09:10:30",
+    "colors": [
+        [
+            106,
+            93,
+            80
+        ],
+        [
+            34,
+            31,
+            27
+        ],
+        [
+            208,
+            211,
+            214
+        ],
+        [
+            139,
+            135,
+            129
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

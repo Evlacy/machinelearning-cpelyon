@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon DIGITAL IXUS 400",
-    "date_taken": "2008:07:11 13:18:48"
+    "date_taken": "2008:07:11 13:18:48",
+    "colors": [
+        [
+            210,
+            211,
+            211
+        ],
+        [
+            64,
+            70,
+            54
+        ],
+        [
+            24,
+            28,
+            20
+        ],
+        [
+            154,
+            162,
+            172
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

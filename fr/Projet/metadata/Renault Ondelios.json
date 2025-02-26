@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "DMC-LX1",
-    "date_taken": "2008:10:09 10:11:00"
+    "date_taken": "2008:10:09 10:11:00",
+    "colors": [
+        [
+            127,
+            134,
+            126
+        ],
+        [
+            15,
+            16,
+            14
+        ],
+        [
+            241,
+            247,
+            242
+        ],
+        [
+            70,
+            72,
+            67
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

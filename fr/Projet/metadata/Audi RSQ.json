@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "DSC-T3",
-    "date_taken": "2005:03:16 13:36:33"
+    "date_taken": "2005:03:16 13:36:33",
+    "colors": [
+        [
+            181,
+            208,
+            220
+        ],
+        [
+            14,
+            20,
+            23
+        ],
+        [
+            70,
+            83,
+            82
+        ],
+        [
+            113,
+            135,
+            144
+        ]
+    ],
+    "tags": [
+        "isNightPicture"
+    ]
 }

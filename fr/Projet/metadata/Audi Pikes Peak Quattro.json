@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "PENTAX Optio330RS",
-    "date_taken": "2003:09:20 08:34:46"
+    "date_taken": "2003:09:20 08:34:46",
+    "colors": [
+        [
+            95,
+            115,
+            118
+        ],
+        [
+            201,
+            216,
+            213
+        ],
+        [
+            24,
+            23,
+            20
+        ],
+        [
+            217,
+            83,
+            17
+        ]
+    ],
+    "tags": [
+        "isNightPicture"
+    ]
 }

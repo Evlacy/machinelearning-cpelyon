@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-    "date_taken": "1998:02:17 03:12:58"
+    "date_taken": "1998:02:17 03:12:58",
+    "colors": [
+        [
+            202,
+            222,
+            215
+        ],
+        [
+            19,
+            15,
+            12
+        ],
+        [
+            75,
+            70,
+            49
+        ],
+        [
+            129,
+            139,
+            132
+        ]
+    ],
+    "tags": [
+        "isNightPicture"
+    ]
 }

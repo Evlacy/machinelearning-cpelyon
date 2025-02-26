@@ -5,5 +5,33 @@
         480
     ],
     "mode": "RGB",
-    "orientation": "Landscape"
+    "orientation": "Landscape",
+    "camera_model": null,
+    "date_taken": null,
+    "colors": [
+        [
+            22,
+            24,
+            23
+        ],
+        [
+            118,
+            124,
+            118
+        ],
+        [
+            200,
+            207,
+            208
+        ],
+        [
+            74,
+            80,
+            76
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "FinePix A340   ",
-    "date_taken": "2004:11:27 16:04:32"
+    "date_taken": "2004:11:27 16:04:32",
+    "colors": [
+        [
+            163,
+            145,
+            135
+        ],
+        [
+            49,
+            40,
+            40
+        ],
+        [
+            238,
+            218,
+            200
+        ],
+        [
+            108,
+            89,
+            81
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 50D",
-    "date_taken": "2013:03:08 18:14:32"
+    "date_taken": "2013:03:08 18:14:32",
+    "colors": [
+        [
+            151,
+            35,
+            32
+        ],
+        [
+            241,
+            220,
+            213
+        ],
+        [
+            53,
+            36,
+            41
+        ],
+        [
+            151,
+            135,
+            140
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

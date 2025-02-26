@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "E3100",
-    "date_taken": "2005:09:15 14:53:13"
+    "date_taken": "2005:09:15 14:53:13",
+    "colors": [
+        [
+            102,
+            98,
+            105
+        ],
+        [
+            227,
+            214,
+            220
+        ],
+        [
+            37,
+            33,
+            48
+        ],
+        [
+            171,
+            155,
+            134
+        ]
+    ],
+    "tags": [
+        "isVintage",
+        "isNightPicture"
+    ]
 }

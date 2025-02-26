@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "NIKON D3200",
-    "date_taken": "2015:09:17 17:32:37"
+    "date_taken": "2015:09:17 17:32:37",
+    "colors": [
+        [
+            19,
+            19,
+            23
+        ],
+        [
+            142,
+            152,
+            158
+        ],
+        [
+            83,
+            93,
+            103
+        ],
+        [
+            221,
+            228,
+            228
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "PhotoPC 850Z",
-    "date_taken": "2003:07:18 15:36:20"
+    "date_taken": "2003:07:18 15:36:20",
+    "colors": [
+        [
+            218,
+            223,
+            223
+        ],
+        [
+            95,
+            61,
+            52
+        ],
+        [
+            145,
+            147,
+            147
+        ],
+        [
+            9,
+            10,
+            9
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

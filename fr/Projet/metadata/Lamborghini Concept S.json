@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon PowerShot A720 IS",
-    "date_taken": "2007:10:11 11:30:12"
+    "date_taken": "2007:10:11 11:30:12",
+    "colors": [
+        [
+            200,
+            201,
+            197
+        ],
+        [
+            94,
+            59,
+            38
+        ],
+        [
+            26,
+            23,
+            20
+        ],
+        [
+            143,
+            136,
+            127
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

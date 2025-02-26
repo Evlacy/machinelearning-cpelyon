@@ -6,6 +6,32 @@
     ],
     "mode": "L",
     "orientation": "Landscape",
-    "camera_model": "Unknown",
-    "date_taken": "Unknown"
+    "camera_model": null,
+    "date_taken": null,
+    "colors": [
+        [
+            215,
+            215,
+            215
+        ],
+        [
+            28,
+            28,
+            28
+        ],
+        [
+            94,
+            94,
+            94
+        ],
+        [
+            163,
+            163,
+            163
+        ]
+    ],
+    "tags": [
+        "isVintage",
+        "isNightPicture"
+    ]
 }

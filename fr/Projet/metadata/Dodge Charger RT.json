@@ -6,6 +6,32 @@
     ],
     "mode": "RGB",
     "orientation": "Landscape",
-    "camera_model": "Unknown",
-    "date_taken": "2000:11:01 22:12:36"
+    "camera_model": null,
+    "date_taken": "2000:11:01 22:12:36",
+    "colors": [
+        [
+            138,
+            57,
+            25
+        ],
+        [
+            213,
+            200,
+            171
+        ],
+        [
+            144,
+            122,
+            92
+        ],
+        [
+            41,
+            41,
+            29
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

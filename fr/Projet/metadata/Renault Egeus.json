@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon PowerShot S50",
-    "date_taken": "2006:07:21 14:11:19"
+    "date_taken": "2006:07:21 14:11:19",
+    "colors": [
+        [
+            39,
+            42,
+            52
+        ],
+        [
+            221,
+            222,
+            214
+        ],
+        [
+            64,
+            112,
+            206
+        ],
+        [
+            129,
+            129,
+            129
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

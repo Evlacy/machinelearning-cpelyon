@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 5D Mark III",
-    "date_taken": "2018:10:02 16:51:39"
+    "date_taken": "2018:10:02 16:51:39",
+    "colors": [
+        [
+            56,
+            57,
+            70
+        ],
+        [
+            175,
+            178,
+            185
+        ],
+        [
+            105,
+            105,
+            117
+        ],
+        [
+            26,
+            22,
+            28
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

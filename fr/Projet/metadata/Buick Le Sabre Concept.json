@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon DIGITAL IXUS 300",
-    "date_taken": "2001:07:07 09:58:15"
+    "date_taken": "2001:07:07 09:58:15",
+    "colors": [
+        [
+            205,
+            212,
+            214
+        ],
+        [
+            31,
+            31,
+            24
+        ],
+        [
+            130,
+            140,
+            140
+        ],
+        [
+            98,
+            86,
+            55
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

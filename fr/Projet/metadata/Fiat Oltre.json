@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "SM-G973F",
-    "date_taken": "2022:10:08 15:54:33"
+    "date_taken": "2022:10:08 15:54:33",
+    "colors": [
+        [
+            170,
+            168,
+            160
+        ],
+        [
+            38,
+            41,
+            43
+        ],
+        [
+            233,
+            240,
+            241
+        ],
+        [
+            109,
+            105,
+            95
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

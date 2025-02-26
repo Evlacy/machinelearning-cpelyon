@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 5D Mark III",
-    "date_taken": "2013:03:02 13:38:24"
+    "date_taken": "2013:03:02 13:38:24",
+    "colors": [
+        [
+            109,
+            104,
+            116
+        ],
+        [
+            231,
+            231,
+            227
+        ],
+        [
+            230,
+            194,
+            111
+        ],
+        [
+            42,
+            45,
+            59
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

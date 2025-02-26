@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Portrait",
     "camera_model": "HP PhotoSmart C945 (V01.67) ",
-    "date_taken": "2006:01:16 20:09:32"
+    "date_taken": "2006:01:16 20:09:32",
+    "colors": [
+        [
+            37,
+            41,
+            44
+        ],
+        [
+            65,
+            95,
+            118
+        ],
+        [
+            178,
+            212,
+            227
+        ],
+        [
+            208,
+            166,
+            27
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

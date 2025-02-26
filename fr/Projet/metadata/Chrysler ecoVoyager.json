@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "X600,D630,FE5500",
-    "date_taken": "2008:03:13 18:34:28"
+    "date_taken": "2008:03:13 18:34:28",
+    "colors": [
+        [
+            31,
+            22,
+            29
+        ],
+        [
+            154,
+            148,
+            156
+        ],
+        [
+            101,
+            142,
+            208
+        ],
+        [
+            71,
+            64,
+            92
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

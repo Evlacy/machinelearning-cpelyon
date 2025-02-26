@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "FinePix2400Zoom",
-    "date_taken": "2003:09:15 13:24:10"
+    "date_taken": "2003:09:15 13:24:10",
+    "colors": [
+        [
+            235,
+            239,
+            227
+        ],
+        [
+            26,
+            22,
+            21
+        ],
+        [
+            123,
+            132,
+            133
+        ],
+        [
+            189,
+            45,
+            5
+        ]
+    ],
+    "tags": [
+        "isNightPicture"
+    ]
 }

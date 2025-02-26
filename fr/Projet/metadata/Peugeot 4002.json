@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "DiMAGE 7i",
-    "date_taken": "2003:09:15 09:23:09"
+    "date_taken": "2003:09:15 09:23:09",
+    "colors": [
+        [
+            154,
+            156,
+            153
+        ],
+        [
+            37,
+            40,
+            30
+        ],
+        [
+            229,
+            234,
+            228
+        ],
+        [
+            98,
+            96,
+            91
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

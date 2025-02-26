@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 7D",
-    "date_taken": "2014:02:05 11:39:34"
+    "date_taken": "2014:02:05 11:39:34",
+    "colors": [
+        [
+            34,
+            28,
+            26
+        ],
+        [
+            178,
+            171,
+            124
+        ],
+        [
+            223,
+            223,
+            222
+        ],
+        [
+            121,
+            96,
+            73
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

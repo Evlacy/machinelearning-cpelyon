@@ -5,5 +5,32 @@
         1400
     ],
     "mode": "RGB",
-    "orientation": "Landscape"
+    "orientation": "Landscape",
+    "camera_model": null,
+    "date_taken": null,
+    "colors": [
+        [
+            105,
+            100,
+            90
+        ],
+        [
+            217,
+            202,
+            189
+        ],
+        [
+            31,
+            27,
+            21
+        ],
+        [
+            167,
+            57,
+            32
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

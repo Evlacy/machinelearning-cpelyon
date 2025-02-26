@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon PowerShot A70",
-    "date_taken": "2008:01:30 13:01:30"
+    "date_taken": "2008:01:30 13:01:30",
+    "colors": [
+        [
+            46,
+            42,
+            40
+        ],
+        [
+            176,
+            168,
+            165
+        ],
+        [
+            243,
+            241,
+            242
+        ],
+        [
+            124,
+            112,
+            106
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

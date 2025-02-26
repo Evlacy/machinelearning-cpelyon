@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon PowerShot A540",
-    "date_taken": "2008:03:19 17:21:04"
+    "date_taken": "2008:03:19 17:21:04",
+    "colors": [
+        [
+            161,
+            160,
+            162
+        ],
+        [
+            23,
+            20,
+            20
+        ],
+        [
+            243,
+            240,
+            240
+        ],
+        [
+            76,
+            71,
+            71
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

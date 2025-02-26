@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 50D",
-    "date_taken": "2012:01:26 10:03:41"
+    "date_taken": "2012:01:26 10:03:41",
+    "colors": [
+        [
+            209,
+            136,
+            13
+        ],
+        [
+            21,
+            16,
+            16
+        ],
+        [
+            182,
+            175,
+            161
+        ],
+        [
+            74,
+            59,
+            59
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "C2Z,D520Z,C220Z ",
-    "date_taken": "0000:00:00 00:00:00"
+    "date_taken": "0000:00:00 00:00:00",
+    "colors": [
+        [
+            219,
+            225,
+            209
+        ],
+        [
+            71,
+            77,
+            75
+        ],
+        [
+            135,
+            141,
+            129
+        ],
+        [
+            31,
+            29,
+            30
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

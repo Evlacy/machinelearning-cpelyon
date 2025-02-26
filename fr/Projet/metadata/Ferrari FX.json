@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "NIKON D80",
-    "date_taken": "2008:09:18 11:05:47"
+    "date_taken": "2008:09:18 11:05:47",
+    "colors": [
+        [
+            149,
+            140,
+            121
+        ],
+        [
+            75,
+            75,
+            73
+        ],
+        [
+            19,
+            24,
+            29
+        ],
+        [
+            203,
+            199,
+            193
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isVintage"
+    ]
 }

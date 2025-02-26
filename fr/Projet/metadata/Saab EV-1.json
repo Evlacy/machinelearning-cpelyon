@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "COOLPIX P510",
-    "date_taken": "2014:12:07 14:04:50"
+    "date_taken": "2014:12:07 14:04:50",
+    "colors": [
+        [
+            233,
+            69,
+            72
+        ],
+        [
+            227,
+            225,
+            223
+        ],
+        [
+            60,
+            44,
+            47
+        ],
+        [
+            149,
+            149,
+            146
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

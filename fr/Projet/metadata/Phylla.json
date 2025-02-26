@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "5310 XpressMusic",
-    "date_taken": "Unknown"
+    "date_taken": null,
+    "colors": [
+        [
+            23,
+            23,
+            21
+        ],
+        [
+            166,
+            149,
+            130
+        ],
+        [
+            235,
+            230,
+            224
+        ],
+        [
+            79,
+            71,
+            64
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

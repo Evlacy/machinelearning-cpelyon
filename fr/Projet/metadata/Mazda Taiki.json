@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS Kiss Digital X",
-    "date_taken": "2007:10:28 09:45:32"
+    "date_taken": "2007:10:28 09:45:32",
+    "colors": [
+        [
+            34,
+            38,
+            39
+        ],
+        [
+            143,
+            145,
+            152
+        ],
+        [
+            222,
+            227,
+            237
+        ],
+        [
+            74,
+            83,
+            90
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

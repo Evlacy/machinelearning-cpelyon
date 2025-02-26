@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "KODAK LS753 ZOOM DIGITAL CAMERA",
-    "date_taken": "2004:01:01 00:27:57"
+    "date_taken": "2004:01:01 00:27:57",
+    "colors": [
+        [
+            155,
+            153,
+            155
+        ],
+        [
+            30,
+            26,
+            31
+        ],
+        [
+            232,
+            226,
+            217
+        ],
+        [
+            98,
+            77,
+            69
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

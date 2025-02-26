@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "NIKON D3000",
-    "date_taken": "2012:06:09 17:32:02"
+    "date_taken": "2012:06:09 17:32:02",
+    "colors": [
+        [
+            88,
+            67,
+            82
+        ],
+        [
+            32,
+            24,
+            33
+        ],
+        [
+            210,
+            178,
+            199
+        ],
+        [
+            126,
+            119,
+            132
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

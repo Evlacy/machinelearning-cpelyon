@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 5D Mark IV",
-    "date_taken": "2018:03:07 08:01:22"
+    "date_taken": "2018:03:07 08:01:22",
+    "colors": [
+        [
+            39,
+            34,
+            31
+        ],
+        [
+            177,
+            169,
+            164
+        ],
+        [
+            232,
+            235,
+            236
+        ],
+        [
+            123,
+            114,
+            104
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

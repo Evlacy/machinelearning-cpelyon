@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "C55Z,C5500Z",
-    "date_taken": "2008:02:17 17:00:27"
+    "date_taken": "2008:02:17 17:00:27",
+    "colors": [
+        [
+            26,
+            22,
+            18
+        ],
+        [
+            219,
+            200,
+            165
+        ],
+        [
+            130,
+            119,
+            99
+        ],
+        [
+            201,
+            70,
+            14
+        ]
+    ],
+    "tags": [
+        "isVintage",
+        "isNightPicture"
+    ]
 }

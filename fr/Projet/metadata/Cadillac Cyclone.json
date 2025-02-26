@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "NIKON D3200",
-    "date_taken": "2016:02:27 17:50:53"
+    "date_taken": "2016:02:27 17:50:53",
+    "colors": [
+        [
+            138,
+            137,
+            126
+        ],
+        [
+            26,
+            27,
+            26
+        ],
+        [
+            191,
+            193,
+            188
+        ],
+        [
+            63,
+            65,
+            60
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

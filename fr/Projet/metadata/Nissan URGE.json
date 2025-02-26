@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon PowerShot G6",
-    "date_taken": "2006:07:26 11:25:06"
+    "date_taken": "2006:07:26 11:25:06",
+    "colors": [
+        [
+            22,
+            23,
+            22
+        ],
+        [
+            148,
+            150,
+            149
+        ],
+        [
+            227,
+            230,
+            229
+        ],
+        [
+            76,
+            72,
+            65
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "E5000",
-    "date_taken": "2004:01:10 22:24:16"
+    "date_taken": "2004:01:10 22:24:16",
+    "colors": [
+        [
+            234,
+            50,
+            51
+        ],
+        [
+            228,
+            218,
+            217
+        ],
+        [
+            69,
+            57,
+            66
+        ],
+        [
+            121,
+            116,
+            122
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isVintage"
+    ]
 }

@@ -7,5 +7,31 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "NIKON D70",
-    "date_taken": "2007:10:25 14:32:29"
+    "date_taken": "2007:10:25 14:32:29",
+    "colors": [
+        [
+            16,
+            123,
+            76
+        ],
+        [
+            151,
+            174,
+            158
+        ],
+        [
+            28,
+            31,
+            27
+        ],
+        [
+            95,
+            94,
+            89
+        ]
+    ],
+    "tags": [
+        "isOriginal",
+        "isNightPicture"
+    ]
 }

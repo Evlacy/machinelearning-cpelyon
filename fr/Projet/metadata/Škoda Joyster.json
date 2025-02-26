@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "DMC-LZ5",
-    "date_taken": "2007:04:15 14:02:27"
+    "date_taken": "2007:04:15 14:02:27",
+    "colors": [
+        [
+            27,
+            23,
+            21
+        ],
+        [
+            192,
+            181,
+            25
+        ],
+        [
+            177,
+            175,
+            160
+        ],
+        [
+            74,
+            73,
+            67
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

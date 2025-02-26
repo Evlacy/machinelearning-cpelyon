@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS DIGITAL REBEL XTi",
-    "date_taken": "2007:03:15 09:51:52"
+    "date_taken": "2007:03:15 09:51:52",
+    "colors": [
+        [
+            47,
+            31,
+            23
+        ],
+        [
+            249,
+            241,
+            220
+        ],
+        [
+            67,
+            135,
+            188
+        ],
+        [
+            96,
+            89,
+            79
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

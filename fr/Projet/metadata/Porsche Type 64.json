@@ -5,5 +5,32 @@
         430
     ],
     "mode": "RGB",
-    "orientation": "Landscape"
+    "orientation": "Landscape",
+    "camera_model": null,
+    "date_taken": null,
+    "colors": [
+        [
+            30,
+            30,
+            31
+        ],
+        [
+            232,
+            234,
+            236
+        ],
+        [
+            98,
+            97,
+            93
+        ],
+        [
+            148,
+            153,
+            156
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

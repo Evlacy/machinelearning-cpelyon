@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "PENTAX Optio S ",
-    "date_taken": "2003:09:10 15:31:39"
+    "date_taken": "2003:09:10 15:31:39",
+    "colors": [
+        [
+            111,
+            58,
+            15
+        ],
+        [
+            230,
+            202,
+            171
+        ],
+        [
+            157,
+            111,
+            57
+        ],
+        [
+            40,
+            20,
+            8
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

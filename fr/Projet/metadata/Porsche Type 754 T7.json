@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "DMC-FZ28",
-    "date_taken": "2010:03:12 13:06:49"
+    "date_taken": "2010:03:12 13:06:49",
+    "colors": [
+        [
+            68,
+            76,
+            62
+        ],
+        [
+            172,
+            163,
+            142
+        ],
+        [
+            38,
+            42,
+            34
+        ],
+        [
+            130,
+            122,
+            103
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

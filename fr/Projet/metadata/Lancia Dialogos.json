@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 350D DIGITAL",
-    "date_taken": "2006:09:07 13:05:44"
+    "date_taken": "2006:09:07 13:05:44",
+    "colors": [
+        [
+            81,
+            77,
+            76
+        ],
+        [
+            147,
+            130,
+            114
+        ],
+        [
+            197,
+            189,
+            180
+        ],
+        [
+            36,
+            35,
+            37
+        ]
+    ],
+    "tags": [
+        "isVintage"
+    ]
 }

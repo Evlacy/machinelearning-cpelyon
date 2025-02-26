@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "Canon EOS 5D",
-    "date_taken": "2008:03:13 19:54:25"
+    "date_taken": "2008:03:13 19:54:25",
+    "colors": [
+        [
+            76,
+            77,
+            84
+        ],
+        [
+            208,
+            208,
+            206
+        ],
+        [
+            18,
+            19,
+            17
+        ],
+        [
+            135,
+            138,
+            151
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

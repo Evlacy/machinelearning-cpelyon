@@ -7,5 +7,30 @@
     "mode": "RGB",
     "orientation": "Landscape",
     "camera_model": "DSC-W1",
-    "date_taken": "2007:01:20 10:37:00"
+    "date_taken": "2007:01:20 10:37:00",
+    "colors": [
+        [
+            33,
+            27,
+            41
+        ],
+        [
+            224,
+            237,
+            243
+        ],
+        [
+            46,
+            54,
+            119
+        ],
+        [
+            139,
+            158,
+            167
+        ]
+    ],
+    "tags": [
+        "isOriginal"
+    ]
 }

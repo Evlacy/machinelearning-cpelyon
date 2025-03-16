@@ -1,26 +1,5 @@
 [
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault%20M%C3%A9gane%20Coup%C3%A9%20Concept.JPG",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2143724",
-        "carLabel": "Renault Mégane Coupé Concept",
-        "brandLabel": "Renault"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault%20Ondelios.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2143755",
-        "carLabel": "Renault Ondelios",
-        "brandLabel": "Renault"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lemans%20quattro%20front.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2460850",
-        "carLabel": "Audi Le Mans Quattro",
-        "brandLabel": "Audi"
-    },
-    {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nissan%20Forum%20NY.jpg",
         "date": "2005-01-01T00:00:00Z",
         "car": "http://www.wikidata.org/entity/Q126907",
@@ -56,25 +35,32 @@
         "brandLabel": "Peugeot"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Retromobile%202014%20-%20Renault%20Espace%20F1%20-%201994%20-%20003.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peugeot%20Oxia.jpg",
         "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3425030",
-        "carLabel": "Renault Espace F1",
+        "car": "http://www.wikidata.org/entity/Q5689916",
+        "carLabel": "Peugeot Oxia",
+        "brandLabel": "Peugeot"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lemans%20quattro%20front.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2460850",
+        "carLabel": "Audi Le Mans Quattro",
+        "brandLabel": "Audi"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault%20M%C3%A9gane%20Coup%C3%A9%20Concept.JPG",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2143724",
+        "carLabel": "Renault Mégane Coupé Concept",
         "brandLabel": "Renault"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault-racoon-front.jpg",
-        "date": "1995-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3425076",
-        "carLabel": "Renault Racoon",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault%20Ondelios.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2143755",
+        "carLabel": "Renault Ondelios",
         "brandLabel": "Renault"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FiatPandaHydrogen1.jpg",
-        "date": "2006-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q478821",
-        "carLabel": "Fiat Panda II H2",
-        "brandLabel": "Fiat"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20study.JPG",
@@ -84,11 +70,25 @@
         "brandLabel": "Audi"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peugeot-touareg.jpg",
-        "date": "1995-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3377787",
-        "carLabel": "Peugeot Touareg",
-        "brandLabel": "Peugeot"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FiatPandaHydrogen1.jpg",
+        "date": "2006-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q478821",
+        "carLabel": "Fiat Panda II H2",
+        "brandLabel": "Fiat"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Conservatoire%20Citroen%20230%20Citroen%20Lignage%20%2810160246446%29.jpg",
+        "date": "1999-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q5122862",
+        "carLabel": "Citroën C6 Lignage",
+        "brandLabel": "Citroën"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Festival%20automobile%20international%202012%20-%20Citro%C3%ABn%20C-Sportlounge%20-%20002.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q5122859",
+        "carLabel": "C-Sportlounge",
+        "brandLabel": "Citroën"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Honda%20EV-N.jpg",
@@ -119,11 +119,11 @@
         "brandLabel": "Škoda"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa%20BAT%2011.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FIAT%20OLTRE.jpg",
         "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3638946",
-        "carLabel": "Alfa Romeo BAT-11",
-        "brandLabel": "Alfa Romeo"
+        "car": "http://www.wikidata.org/entity/Q5861501",
+        "carLabel": "Fiat Oltre",
+        "brandLabel": "Fiat"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa%20Romeo%20kamal.jpg",
@@ -140,13 +140,6 @@
         "brandLabel": "Mazda"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%22%2012%20-%20ITALY%20-%20eco-design%20-%20FIAT%20PHYLLA%20at%20TDM%20-%20Triennale%20Design%20Museum%20of%20Milan.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3381838",
-        "carLabel": "Phylla",
-        "brandLabel": "Fiat"
-    },
-    {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%20Sidewinder.jpg",
         "date": "1997-01-01T00:00:00Z",
         "car": "http://www.wikidata.org/entity/Q2183297",
@@ -159,510 +152,6 @@
         "car": "http://www.wikidata.org/entity/Q2306696",
         "carLabel": "Dodge Copperhead",
         "brandLabel": "Dodge"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20mg%202185.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3297240",
-        "carLabel": "Maserati Chicane",
-        "brandLabel": "Maserati"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shelby%20GR-1%20at%20the%202005%20Chicago%20Auto%20Show.jpeg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q260932",
-        "carLabel": "Ford Shelby GR-1",
-        "brandLabel": "Ford"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz%20F400%20amk2.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3306279",
-        "carLabel": "Mercedes-Benz F400",
-        "brandLabel": "Mercedes-Benz Group"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saab%209-X%20BioHybrid%20002.JPG",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3460385",
-        "carLabel": "Saab 9-X BioHybrid",
-        "brandLabel": "Saab"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursaab.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3460388",
-        "carLabel": "Saab 92001",
-        "brandLabel": "Saab"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20Birdcage%2075th%2C%20GIMS%202018%2C%20Le%20Grand-Saconnex%20%281X7A1399%29.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2279387",
-        "carLabel": "Maserati Birdcage 75th",
-        "brandLabel": "Fiat"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%202006%20-%20Mazda%20Senku.JPG",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3303088",
-        "carLabel": "Mazda Senku",
-        "brandLabel": "Mazda"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20Kiyora.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3303090",
-        "carLabel": "Mazda Kiyora",
-        "brandLabel": "Mazda"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa-Romeo-33.2.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2400349",
-        "carLabel": "Alfa Romeo 33.2",
-        "brandLabel": "Alfa Romeo"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa%20Romeo%202000%20Sportiva%20Goodwood.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2400425",
-        "carLabel": "Alfa Romeo 2000 Sportiva",
-        "brandLabel": "Alfa Romeo"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1976%20Alfa%20Romeo%20Navajo.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2400609",
-        "carLabel": "Alfa Romeo 33 Bertone Navajo",
-        "brandLabel": "Alfa Romeo"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz%20F400%20amk2.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3306279",
-        "carLabel": "Mercedes-Benz F400",
-        "brandLabel": "Mercedes-Benz"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20350%20GTV.jpg",
-        "date": "1963-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2307240",
-        "carLabel": "Lamborghini 350 GTV",
-        "brandLabel": "Lamborghini"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SAAB%20AERO%20X%20Front%20and%20left%20side.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q420830",
-        "carLabel": "Saab Aero-X",
-        "brandLabel": "Saab"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2010%20Shelby%20DRB540%20Cobra%20%2822605298204%29.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3076969",
-        "carLabel": "Ford Shelby Cobra",
-        "brandLabel": "Ford"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subaru%20Concept%202003.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3502400",
-        "carLabel": "Subaru B11S",
-        "brandLabel": "Subaru"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SUBARU%20B9%20SCRAMBLER%20at%20TMS2003%20001.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3502407",
-        "carLabel": "Subaru B9 Scrambler",
-        "brandLabel": "Subaru"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20Motor%20Show%202007%20-%20DSC%206510%20-%20Flickr%20-%20Nguyen%20Vu%20Hung%20%28vuhung%29.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3502414",
-        "carLabel": "Subaru G4e",
-        "brandLabel": "Subaru"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subaru%20B5-TPH.JPG",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3502404",
-        "carLabel": "Subaru B5 TPH",
-        "brandLabel": "Subaru"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20orleans%20concept%20pressphoto.jpg",
-        "date": "1953-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q387144",
-        "carLabel": "Cadillac Orleans",
-        "brandLabel": "General Motors"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20Cyclone%20Concept.jpg",
-        "date": "1959-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q122037",
-        "carLabel": "Cadillac Cyclone",
-        "brandLabel": "General Motors"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20Birdcage%2075th%2C%20GIMS%202018%2C%20Le%20Grand-Saconnex%20%281X7A1399%29.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2279387",
-        "carLabel": "Maserati Birdcage 75th",
-        "brandLabel": "Maserati"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Citro%C3%ABn%20Hypnos%20002.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2564737",
-        "carLabel": "Citroën Hypnos",
-        "brandLabel": "Citroën"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%20Zeo%20concept.JPG",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2341823",
-        "carLabel": "Dodge Zeo",
-        "brandLabel": "Dodge"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carver%20one%2006011701.jpg",
-        "date": "1994-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q444204",
-        "carLabel": "Carver One",
-        "brandLabel": "Carver"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saab%20EV1.JPG",
-        "date": "1985-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3113383",
-        "carLabel": "Saab EV-1",
-        "brandLabel": "Saab"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IAA%202001%20211%20-%20Flickr%20-%20Axel%20Schwenke.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3144458",
-        "carLabel": "Hyundai Clix",
-        "brandLabel": "Hyundai"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CitroenC-Metisse9.JPG",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q867692",
-        "carLabel": "Citroën C-Métisse",
-        "brandLabel": "Citroën"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20pikes%20peak%202003.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2628209",
-        "carLabel": "Audi Pikes Peak Quattro",
-        "brandLabel": "Audi"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20Shooting%20Brake.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2659176",
-        "carLabel": "Audi Shooting Brake",
-        "brandLabel": "Audi"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault%20Altica.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1810031",
-        "carLabel": "Renault Altica",
-        "brandLabel": "Renault"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rinspeed%20eXasis%20Motorshow%20Geneva%202007.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2154273",
-        "carLabel": "Rinspeed eXasis",
-        "brandLabel": "Rinspeed"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/VolvoECC%20.jpg",
-        "date": "1992-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2381883",
-        "carLabel": "Volvo ECC",
-        "brandLabel": "Volvo Cars"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nissan%20URGE%20Concept.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1815219",
-        "carLabel": "Nissan URGE",
-        "brandLabel": "Nissan"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nissan%20Nuvu.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1893057",
-        "carLabel": "Nissan Nuvu",
-        "brandLabel": "Nissan"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa%20Romeo%20Scarabeo%20OSI%201966.JPG",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2615841",
-        "carLabel": "Alfa Romeo Scarabeo",
-        "brandLabel": "Alfa Romeo"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20nuvolari-studie.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1898682",
-        "carLabel": "Audi Nuvolari Quattro",
-        "brandLabel": "Audi"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bertone%20Suagn%C3%A0.jpg",
-        "date": "2006-10-06T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2899395",
-        "carLabel": "Bertone Suagna",
-        "brandLabel": "Carrozzeria Bertone"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20Bravo%201974%20schr%C3%A4g.JPG",
-        "date": "1974-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2620853",
-        "carLabel": "Lamborghini Bravo",
-        "brandLabel": "Lamborghini"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20Flying%20Star%20II%20Concept%20front.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2892313",
-        "carLabel": "Lamborghini Flying Star II",
-        "brandLabel": "Lamborghini"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BMW%20E1%2001.jpg",
-        "date": "1991-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q796433",
-        "carLabel": "BMW E1",
-        "brandLabel": "Groupe BMW"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BMW%20Concept%20CS%20AMI.JPG",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q796438",
-        "carLabel": "BMW Concept CS",
-        "brandLabel": "Groupe BMW"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Concept%20cs.JPG",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q796438",
-        "carLabel": "BMW Concept CS",
-        "brandLabel": "Groupe BMW"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz%2C%20Paris%20Motor%20Show%202018%2C%20Paris%20%281Y7A1334%29.jpg",
-        "date": "2018-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q56321273",
-        "carLabel": "Mercedes-Benz Vision EQ Silver Arrow",
-        "brandLabel": "Mercedes-Benz Group"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2006%20Dodge%20Hornet%20Concept.JPG",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1953782",
-        "carLabel": "Dodge Hornet",
-        "brandLabel": "Dodge"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Lamborghini%200065.JPG",
-        "date": "1988-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1801474",
-        "carLabel": "Lamborghini P140",
-        "brandLabel": "Lamborghini"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lancia%20Florida%201%20b12%20001.JPG",
-        "date": "1955-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1801848",
-        "carLabel": "Lancia Florida",
-        "brandLabel": "Lancia"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LanciaDialogos.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1801843",
-        "carLabel": "Lancia Dialogos",
-        "brandLabel": "Lancia"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Porsche%2064.jpg",
-        "date": "1939-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q821126",
-        "carLabel": "Porsche Type 64",
-        "brandLabel": "Porsche"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gtcconceptk.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2025166",
-        "carLabel": "Opel GTC Concept",
-        "brandLabel": "Opel"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Volvo%20vesc.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2662663",
-        "carLabel": "Volvo VESC",
-        "brandLabel": "Volvo Cars"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Volvo%20Philip.jpg",
-        "date": "1952-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q2019639",
-        "carLabel": "Volvo Philip",
-        "brandLabel": "Volvo Cars"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa%20Romeo%20Vola%20-%20FAI%202017%20%282-2%29.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q4280744",
-        "carLabel": "Alfa Romeo Vola",
-        "brandLabel": "Alfa Romeo"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ChryslerTurbineEngine01%20crop1.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q839565",
-        "carLabel": "Chrysler Turbine Car",
-        "brandLabel": "Chrysler"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MHV%20MB%20F200%20Imagination%2001.jpg",
-        "date": "1995-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q4044002",
-        "carLabel": "Mercedes-Benz F200",
-        "brandLabel": "Mercedes-Benz Group"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NAFA.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q4044003",
-        "carLabel": "Mercedes-Benz NAFA",
-        "brandLabel": "Mercedes-Benz Group"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavillon%20l%27Automobile%20et%20la%20Mode%20Mondial%20de%20l%E2%80%99Automobile%20de%20Paris%202014-14.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q21055935",
-        "carLabel": "Renault Talisman",
-        "brandLabel": "Renault"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault%20Eolab%20concept%20-%202014%20Paris%20Motor%20Show%2001.jpg",
-        "date": "2014-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q18358732",
-        "carLabel": "Renault Eolab",
-        "brandLabel": "Renault"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peugeot%20Oxia.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q5689916",
-        "carLabel": "Peugeot Oxia",
-        "brandLabel": "Peugeot"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peugeot%20Fractal%20IAA%202015%206.jpg",
-        "date": "2015-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q21029339",
-        "carLabel": "Peugeot Fractal",
-        "brandLabel": "Peugeot"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peugeot%20Quartz%20-%20Mondial%20de%20l%27Automobile%20de%20Paris%202014%20-%20002.jpg",
-        "date": "2014-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q19298454",
-        "carLabel": "Peugeot Quartz",
-        "brandLabel": "Peugeot"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20Boomerang%20fl.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3850758",
-        "carLabel": "Maserati Boomerang",
-        "brandLabel": "Fiat"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Festival%20automobile%20international%202012%20-%20Citro%C3%ABn%20C-Sportlounge%20-%20002.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q5122859",
-        "carLabel": "C-Sportlounge",
-        "brandLabel": "Citroën"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Conservatoire%20Citroen%20230%20Citroen%20Lignage%20%2810160246446%29.jpg",
-        "date": "1999-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q5122862",
-        "carLabel": "Citroën C6 Lignage",
-        "brandLabel": "Citroën"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2015-03-03%20Geneva%20Motor%20Show%204044.JPG",
-        "date": "2015-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q20650312",
-        "carLabel": "Nissan Sway",
-        "brandLabel": "Nissan"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SLY%205775%20%2815811359156%29.jpg",
-        "date": "2014-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q18757789",
-        "carLabel": "Audi Prologue",
-        "brandLabel": "Audi"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FIAT%20OLTRE.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q5861501",
-        "carLabel": "Fiat Oltre",
-        "brandLabel": "Fiat"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20Boomerang%20fl.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3850758",
-        "carLabel": "Maserati Boomerang",
-        "brandLabel": "Maserati"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MHV%20MB%20F200%20Imagination%2001.jpg",
-        "date": "1995-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q4044002",
-        "carLabel": "Mercedes-Benz F200",
-        "brandLabel": "Mercedes-Benz"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kia%20KEE.jpg",
-        "date": "2007-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q6403646",
-        "carLabel": "Kia Kee",
-        "brandLabel": "Kia"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2015%20Bentley%20EXP%2010%20Speed%206%20concept%20car%20at%20Motorshow%20Geneva%20%2816650492919%29.jpg",
-        "date": "2015-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q19873130",
-        "carLabel": "Bentley EXP 10 Speed 6",
-        "brandLabel": "Bentley"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auto%20Show%20024.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q4038889",
-        "carLabel": "Ford Airstream",
-        "brandLabel": "Ford"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20SYNUS%20concept.jpg",
@@ -686,46 +175,109 @@
         "brandLabel": "Ford"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DSCF0182%20Bertone%20NSU%20Trapeze%2C%20au%20salon%20Epoqu%27auto%2C%20Lyon%2C%202024.jpg",
-        "date": "1973-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q19382474",
-        "carLabel": "Bertone NSU Trapeze",
-        "brandLabel": "Carrozzeria Bertone"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kia%20KEE.jpg",
+        "date": "2007-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q6403646",
+        "carLabel": "Kia Kee",
+        "brandLabel": "Kia"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MercedesBenzVisionCLS%201.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20Birdcage%2075th%2C%20GIMS%202018%2C%20Le%20Grand-Saconnex%20%281X7A1399%29.jpg",
         "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q18815986",
-        "carLabel": "Mercedes-Benz Vision CLS",
+        "car": "http://www.wikidata.org/entity/Q2279387",
+        "carLabel": "Maserati Birdcage 75th",
+        "brandLabel": "Fiat"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz%20F400%20amk2.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3306279",
+        "carLabel": "Mercedes-Benz F400",
         "brandLabel": "Mercedes-Benz Group"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20Asterion%20Concept%2020170101%20175758.jpg",
-        "date": "2014-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q18456990",
-        "carLabel": "Lamborghini Asterion LPI 910-4",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shelby%20GR-1%20at%20the%202005%20Chicago%20Auto%20Show.jpeg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q260932",
+        "carLabel": "Ford Shelby GR-1",
+        "brandLabel": "Ford"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20mg%202185.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3297240",
+        "carLabel": "Maserati Chicane",
+        "brandLabel": "Maserati"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa-Romeo-33.2.jpg",
+        "date": "1950-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2400349",
+        "carLabel": "Alfa Romeo 33.2",
+        "brandLabel": "Alfa Romeo"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa%20Romeo%202000%20Sportiva%20Goodwood.jpg",
+        "date": "1950-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2400425",
+        "carLabel": "Alfa Romeo 2000 Sportiva",
+        "brandLabel": "Alfa Romeo"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1976%20Alfa%20Romeo%20Navajo.jpg",
+        "date": "1950-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2400609",
+        "carLabel": "Alfa Romeo 33 Bertone Navajo",
+        "brandLabel": "Alfa Romeo"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20350%20GTV.jpg",
+        "date": "1963-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2307240",
+        "carLabel": "Lamborghini 350 GTV",
         "brandLabel": "Lamborghini"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GeneralMotorsLeSabre.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3646686",
-        "carLabel": "Buick Le Sabre Concept",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SAAB%20AERO%20X%20Front%20and%20left%20side.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q420830",
+        "carLabel": "Saab Aero-X",
+        "brandLabel": "Saab"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%202006%20-%20Mazda%20Senku.JPG",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3303088",
+        "carLabel": "Mazda Senku",
+        "brandLabel": "Mazda"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20Kiyora.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3303090",
+        "carLabel": "Mazda Kiyora",
+        "brandLabel": "Mazda"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz%20F400%20amk2.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3306279",
+        "carLabel": "Mercedes-Benz F400",
+        "brandLabel": "Mercedes-Benz"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20orleans%20concept%20pressphoto.jpg",
+        "date": "1953-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q387144",
+        "carLabel": "Cadillac Orleans",
         "brandLabel": "General Motors"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salon-de-lauto-2002-suzuki.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3978397",
-        "carLabel": "Suzuki GSX-R4",
-        "brandLabel": "Suzuki"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bizzarrini%20Ghepardo%2C%20GIMS%202018%2C%20Le%20Grand-Saconnex%20%281X7A1403%29.jpg",
-        "date": "2006-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q3640604",
-        "carLabel": "Bizzarrini Ghepardo",
-        "brandLabel": "Bizzarrini"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20Cyclone%20Concept.jpg",
+        "date": "1959-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q122037",
+        "carLabel": "Cadillac Cyclone",
+        "brandLabel": "General Motors"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ChevroletSS-front.jpg",
@@ -742,18 +294,53 @@
         "brandLabel": "General Motors"
     },
     {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%20Zeo%20concept.JPG",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2341823",
+        "carLabel": "Dodge Zeo",
+        "brandLabel": "Dodge"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20Birdcage%2075th%2C%20GIMS%202018%2C%20Le%20Grand-Saconnex%20%281X7A1399%29.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2279387",
+        "carLabel": "Maserati Birdcage 75th",
+        "brandLabel": "Maserati"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2010%20Shelby%20DRB540%20Cobra%20%2822605298204%29.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3076969",
+        "carLabel": "Ford Shelby Cobra",
+        "brandLabel": "Ford"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carver%20one%2006011701.jpg",
+        "date": "1994-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q444204",
+        "carLabel": "Carver One",
+        "brandLabel": "Carver"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saab%20EV1.JPG",
+        "date": "1985-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3113383",
+        "carLabel": "Saab EV-1",
+        "brandLabel": "Saab"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IAA%202001%20211%20-%20Flickr%20-%20Axel%20Schwenke.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3144458",
+        "carLabel": "Hyundai Clix",
+        "brandLabel": "Hyundai"
+    },
+    {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault%20%28Matra%29%20Zoom%20short.jpg",
         "date": "1950-01-01T00:00:00Z",
         "car": "http://www.wikidata.org/entity/Q631247",
         "carLabel": "Renault Zoom",
         "brandLabel": "Renault"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Porsche%20typ12.jpg",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q18343693",
-        "carLabel": "Porsche Type 12",
-        "brandLabel": "Ferdinand Porsche"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chrysler%20Atlantic%20concept%20car%20at%20Chrysler%20Musem%2C%20Auburn%20Hills%2C%20MI%20January%202008%20IMG%203532A.jpg",
@@ -798,11 +385,11 @@
         "brandLabel": "Chrysler"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz%20F100%20left%20Mercedes-Benz%20Museum.jpg",
-        "date": "1991-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q19581492",
-        "carLabel": "Mercedes-Benz F100",
-        "brandLabel": "Daimler-Benz"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1942PeugeotVLV.jpg",
+        "date": "1941-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q916848",
+        "carLabel": "Peugeot VLV",
+        "brandLabel": "Peugeot"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peugeot%20Hoggar%20front.jpg",
@@ -819,18 +406,25 @@
         "brandLabel": "Peugeot"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20Roadjet%20Concept.jpg",
-        "date": "2006-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q4819712",
-        "carLabel": "Audi Roadjet",
-        "brandLabel": "Audi"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/VolvoECC%20.jpg",
+        "date": "1992-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2381883",
+        "carLabel": "Volvo ECC",
+        "brandLabel": "Volvo Cars"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20e-tron%20%28Edit1%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rinspeed%20eXasis%20Motorshow%20Geneva%202007.jpg",
         "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1638999",
-        "carLabel": "Audi e-tron Frankfurt",
-        "brandLabel": "Audi"
+        "car": "http://www.wikidata.org/entity/Q2154273",
+        "carLabel": "Rinspeed eXasis",
+        "brandLabel": "Rinspeed"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nissan%20MID4%20front-left%202015%20Motorsport%20Japan.jpg",
+        "date": "1985-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q869601",
+        "carLabel": "Nissan MID4",
+        "brandLabel": "Nissan"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/P103%20-%20Mercedes-Benz%20Concept%20Fascination.jpg",
@@ -847,18 +441,25 @@
         "brandLabel": "Ferrari"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes%20Concept%20IAA.%20Spielvogel3.JPG",
-        "date": "2015-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q21512319",
-        "carLabel": "Mercedes-Benz Concept IAA",
-        "brandLabel": "Mercedes-Benz Group"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Motor%20Show%202018%2C%20Paris%20%281Y7A0467%29.jpg",
+        "date": "2018-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q50398682",
+        "carLabel": "Renault EZ-GO",
+        "brandLabel": "Renault"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1996%20Ferrari%20FX%20-%20dk%20blu%20met%20-%20fvl%20%284653162375%29.jpg",
-        "date": "1995-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1770713",
-        "carLabel": "Ferrari FX",
-        "brandLabel": "Ferrari"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20Pregunta%20Heuliez%20Marc%20Deschamps.jpg",
+        "date": "1999-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q911661",
+        "carLabel": "Lamborghini Pregunta",
+        "brandLabel": "Lamborghini"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Geneva%20International%20Motor%20Show%202018%2C%20Le%20Grand-Saconnex%20%281X7A1405%29.jpg",
+        "date": "1950-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q940609",
+        "carLabel": "Lamborghini Marzal",
+        "brandLabel": "Lamborghini"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20Furai%20Detroit%202008.JPG",
@@ -868,13 +469,6 @@
         "brandLabel": "Mazda"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20Concept%20s.jpg",
-        "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1797639",
-        "carLabel": "Lamborghini Concept S",
-        "brandLabel": "Lamborghini"
-    },
-    {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20GT90%20Front.jpg",
         "date": "1995-01-01T00:00:00Z",
         "car": "http://www.wikidata.org/entity/Q653729",
@@ -882,25 +476,18 @@
         "brandLabel": "Ford"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mitsubishi%20PX33.jpg",
-        "date": "1934-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1708885",
-        "carLabel": "Mitsubishi PX33",
-        "brandLabel": "Mitsubishi"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20Kabura%20Concept.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q946527",
+        "carLabel": "Mazda Kabura",
+        "brandLabel": "Mazda"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Porsche%20754%20T7%20Prototype%201959%20frontright%202010-03-12%20A.jpg",
-        "date": "1961-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1796830",
-        "carLabel": "Porsche Type 754 T7",
-        "brandLabel": "Porsche"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Porsche%20754%20T7%20Prototype%201959%20frontright%202010-03-12%20A.jpg",
-        "date": "1959-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1796830",
-        "carLabel": "Porsche Type 754 T7",
-        "brandLabel": "Porsche"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20Hakaze%20Concept%20SideView%20Automotor2008%20Israel.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q931740",
+        "carLabel": "Mazda Hakaze",
+        "brandLabel": "Mazda"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chrysler%20Firepower%20NAIAS.jpg",
@@ -910,6 +497,48 @@
         "brandLabel": "Chrysler"
     },
     {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Retromobile%202014%20-%20Renault%20Espace%20F1%20-%201994%20-%20003.jpg",
+        "date": "1950-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3425030",
+        "carLabel": "Renault Espace F1",
+        "brandLabel": "Renault"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault-racoon-front.jpg",
+        "date": "1995-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3425076",
+        "carLabel": "Renault Racoon",
+        "brandLabel": "Renault"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buick%20Y.jpg",
+        "date": "1950-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q1002953",
+        "carLabel": "Buick Y-Job",
+        "brandLabel": "General Motors"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bugatti%20Type%2041%20Royale%20Packard%20Prototype%201926.jpg",
+        "date": "2011-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q116697992",
+        "carLabel": "Bugatti type 41 Royale",
+        "brandLabel": "Bugatti Automobiles"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bugatti%20Type%2041%20Royale%20Packard%20Prototype%201926.jpg",
+        "date": "1926-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q116697992",
+        "carLabel": "Bugatti type 41 Royale",
+        "brandLabel": "Bugatti Automobiles"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peugeot-touareg.jpg",
+        "date": "1995-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3377787",
+        "carLabel": "Peugeot Touareg",
+        "brandLabel": "Peugeot"
+    },
+    {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renault%20Egeus%20concept%20car%20front%20quarter%20view-2006-07-21.jpg",
         "date": "2005-01-01T00:00:00Z",
         "car": "http://www.wikidata.org/entity/Q1515615",
@@ -917,24 +546,17 @@
         "brandLabel": "Renault"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GM%20Sequel.JPG",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa%20BAT%2011.jpg",
         "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1787432",
-        "carLabel": "Chevrolet Sequel",
-        "brandLabel": "General Motors"
+        "car": "http://www.wikidata.org/entity/Q3638946",
+        "carLabel": "Alfa Romeo BAT-11",
+        "brandLabel": "Alfa Romeo"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20Cal%C3%A0%201.jpg",
-        "date": "1995-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q1692736",
-        "carLabel": "Lamborghini Calà",
-        "brandLabel": "Italdesign"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20Pop.Up%20Next%2C%20GIMS%202018%2C%20Le%20Grand-Saconnex%20%281X7A1558%29.jpg",
-        "date": "2018-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q55984296",
-        "carLabel": "Audi Pop.Up Next",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20Roadjet%20Concept.jpg",
+        "date": "2006-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q4819712",
+        "carLabel": "Audi Roadjet",
         "brandLabel": "Audi"
     },
     {
@@ -945,6 +567,27 @@
         "brandLabel": "Peugeot"
     },
     {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/VW%20I.D.%20Vizzion%20Genf%202018.jpg",
+        "date": "2018-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q55642617",
+        "carLabel": "Volkswagen ID. Vizzion",
+        "brandLabel": "Volkswagen"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%22%2012%20-%20ITALY%20-%20eco-design%20-%20FIAT%20PHYLLA%20at%20TDM%20-%20Triennale%20Design%20Museum%20of%20Milan.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3381838",
+        "carLabel": "Phylla",
+        "brandLabel": "Fiat"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Volkswagen%20Press%20Conference%2C%20Le%20Grand-Saconnex%20%281X7A9944%29.jpg",
+        "date": "2018-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q55642617",
+        "carLabel": "Volkswagen ID. Vizzion",
+        "brandLabel": "Volkswagen"
+    },
+    {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20Dodge%20Kahuna%20front.JPG",
         "date": "2005-01-01T00:00:00Z",
         "car": "http://www.wikidata.org/entity/Q1234242",
@@ -952,11 +595,18 @@
         "brandLabel": "Dodge"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/VW%20GX3.jpeg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saab%209-X%20BioHybrid%20002.JPG",
         "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q7940311",
-        "carLabel": "Volkswagen GX3",
-        "brandLabel": "Volkswagen"
+        "car": "http://www.wikidata.org/entity/Q3460385",
+        "carLabel": "Saab 9-X BioHybrid",
+        "brandLabel": "Saab"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursaab.jpg",
+        "date": "1950-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3460388",
+        "carLabel": "Saab 92001",
+        "brandLabel": "Saab"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferrari%20GG50%20-%20Museo%20Ferrari%20%2817515678863%29.jpg",
@@ -964,13 +614,6 @@
         "car": "http://www.wikidata.org/entity/Q1405144",
         "carLabel": "Ferrari GG50",
         "brandLabel": "Ferrari"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlfaRomeoGloria-Geneva2013.jpg",
-        "date": "2013-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q13623213",
-        "carLabel": "Alfa Romeo Gloria",
-        "brandLabel": "Alfa Romeo"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chrysler%20ME%20Four-Twelve%20Concept.jpg",
@@ -987,46 +630,53 @@
         "brandLabel": "Fiat"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20Faena%201978%20schr%C3%A4g.JPG",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q10316140",
-        "carLabel": "Lamborghini Faena",
-        "brandLabel": "Lamborghini"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1974%20Maserati%20Medici%20Show%20car.JPG",
-        "date": "1974-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q14822819",
-        "carLabel": "Maserati Medici",
-        "brandLabel": "Maserati"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20HR-X.JPG",
-        "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q11771954",
-        "carLabel": "Mazda HR-X",
-        "brandLabel": "Mazda"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20HR-X.JPG",
-        "date": "1995-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q11771954",
-        "carLabel": "Mazda HR-X",
-        "brandLabel": "Mazda"
-    },
-    {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20Kazamai%20%28side%29.JPG",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subaru%20Concept%202003.jpg",
         "date": "2005-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q10327871",
-        "carLabel": "Mazda Kazamai",
-        "brandLabel": "Mazda"
+        "car": "http://www.wikidata.org/entity/Q3502400",
+        "carLabel": "Subaru B11S",
+        "brandLabel": "Subaru"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Motor%20Show%202018%2C%20Paris%20%281Y7A0462%29.jpg",
-        "date": "2018-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q56876158",
-        "carLabel": "Peugeot e-Legend",
-        "brandLabel": "Peugeot"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SUBARU%20B9%20SCRAMBLER%20at%20TMS2003%20001.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3502407",
+        "carLabel": "Subaru B9 Scrambler",
+        "brandLabel": "Subaru"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20Motor%20Show%202007%20-%20DSC%206510%20-%20Flickr%20-%20Nguyen%20Vu%20Hung%20%28vuhung%29.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3502414",
+        "carLabel": "Subaru G4e",
+        "brandLabel": "Subaru"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subaru%20B5-TPH.JPG",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q3502404",
+        "carLabel": "Subaru B5 TPH",
+        "brandLabel": "Subaru"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Citro%C3%ABn%20Hypnos%20002.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2564737",
+        "carLabel": "Citroën Hypnos",
+        "brandLabel": "Citroën"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20pikes%20peak%202003.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2628209",
+        "carLabel": "Audi Pikes Peak Quattro",
+        "brandLabel": "Audi"
+    },
+    {
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20Shooting%20Brake.jpg",
+        "date": "2005-01-01T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2659176",
+        "carLabel": "Audi Shooting Brake",
+        "brandLabel": "Audi"
     },
     {
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Volvo%20YCC.jpg",
@@ -1036,17 +686,17 @@
         "brandLabel": "Volvo Cars"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Techno-Classica%202018%2C%20Essen%20%28IMG%209764%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfa%20Romeo%20Scarabeo%20OSI%201966.JPG",
         "date": "1950-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q10716602",
-        "carLabel": "Volkswagen Futura",
-        "brandLabel": "Volkswagen"
+        "car": "http://www.wikidata.org/entity/Q2615841",
+        "carLabel": "Alfa Romeo Scarabeo",
+        "brandLabel": "Alfa Romeo"
     },
     {
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lancia%20Bertone%20Sibilo%2C%20GIMS%202018%2C%20Le%20Grand-Saconnex%20%281X7A1401%29.jpg",
-        "date": "1978-01-01T00:00:00Z",
-        "car": "http://www.wikidata.org/entity/Q4574571",
-        "carLabel": "Lancia Sibilo",
-        "brandLabel": "Fiat"
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bertone%20Suagn%C3%A0.jpg",
+        "date": "2006-10-06T00:00:00Z",
+        "car": "http://www.wikidata.org/entity/Q2899395",
+        "carLabel": "Bertone Suagna",
+        "brandLabel": "Carrozzeria Bertone"
     }
 ]

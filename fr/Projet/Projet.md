@@ -25,7 +25,7 @@ Les principales tâches du projet sont présentées ci-dessous :
 7.  Rapport
 
 
-![Architecture](../../images/Project-Architecture.png "Architecture")
+![Architecture](Project-Architecture.png "Architecture")
 
 ## Collecte de données
 

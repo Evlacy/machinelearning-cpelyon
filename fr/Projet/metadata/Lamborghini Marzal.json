@@ -1,0 +1,34 @@
+{
+    "format": "JPEG",
+    "size": [
+        6720,
+        4480
+    ],
+    "mode": "RGB",
+    "orientation": "Landscape",
+    "camera_model": "Canon EOS 5D Mark IV",
+    "date_taken": "2018:03:07 08:02:04",
+    "colors": [
+        [
+            152,
+            149,
+            145
+        ],
+        [
+            21,
+            18,
+            17
+        ],
+        [
+            223,
+            224,
+            223
+        ],
+        [
+            94,
+            83,
+            77
+        ]
+    ],
+    "tags": []
+}
